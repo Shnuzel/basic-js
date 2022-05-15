@@ -29,11 +29,15 @@
 // for(let index = 0; index < 6; index++){
 //     console.log(number)
 // }
-let age = 80
-if( age===23){
-    console.log("Congratulations")
+// / answer 5
+// let age = 80
+// if( age===23){
+//     console.log("Congratulations")
+// }
+// else if(age<23){
+//     console.log("young")
+// }
+// else{console.log("old")}
+for(let index = 0; index<70; index++){
+    console.log("hello world")
 }
-else if(age<23){
-    console.log("young")
-}
-else{console.log("old")}
