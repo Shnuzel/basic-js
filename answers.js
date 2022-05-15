@@ -20,12 +20,20 @@
 //     "current phone": "xiomi 7",
 // }
 // console.log(object)
-
-let number = 420;
-number = number*4;
-number = number -1;
-number = number/12;
-modulu = number/3;
-for(let index = 0; index < 6; index++){
-    console.log(number)
+// /answer 4
+// let number = 420;
+// number = number*4;
+// number = number -1;
+// number = number/12;
+// modulu = number/3;
+// for(let index = 0; index < 6; index++){
+//     console.log(number)
+// }
+let age = 80
+if( age===23){
+    console.log("Congratulations")
 }
+else if(age<23){
+    console.log("young")
+}
+else{console.log("old")}
