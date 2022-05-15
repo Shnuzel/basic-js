@@ -38,6 +38,12 @@
 //     console.log("young")
 // }
 // else{console.log("old")}
-for(let index = 0; index<70; index++){
-    console.log("hello world")
-}
+// /answer6
+// for(let index = 0; index<70; index++){
+//     console.log("hello world")
+// }
+ let f=0;
+for( let n= 0; n <= 300; n++){
+    f+=n
+ }
+ console.log(f)
